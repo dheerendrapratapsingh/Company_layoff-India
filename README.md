@@ -1,7 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Scikit Learn](https://img.shields.io/badge/ScikitLearn-ML-orange)
-![License](https://img.shields.io/badge/License-MIT-red)
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 
 # India Startup Layoffs Analysis and Prediction
