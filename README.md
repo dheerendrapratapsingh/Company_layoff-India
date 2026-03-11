@@ -3,7 +3,7 @@
 ![Scikit Learn](https://img.shields.io/badge/ScikitLearn-ML-orange)
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 
-# India Startup Layoffs Analysis and Prediction
+# India Companies Layoffs Analysis and Prediction
 
 ## Project Overview
 
@@ -133,6 +133,6 @@ Open the notebook using Jupyter Notebook or VS Code.
 
 ## Authors
 
-Dheerendra Pratap Singh
+Dheerendra Pratap Singh, 
 Himanvi Damarla
 
